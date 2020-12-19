@@ -1,1 +1,1 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nmcardoso&hide=contribs&count_private=true&show_icons=true&include_all_commits=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nmcardoso&layout=compact)
+![Github Stats](https://raw.githubusercontent.com/nmcardoso/github-stats/master/generated/overview.svg) ![Most Used Languages](https://raw.githubusercontent.com/nmcardoso/github-stats/master/generated/languages.svg)
