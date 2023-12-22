@@ -8,7 +8,7 @@ I am a last year Computer Engineering student at University of São Paulo workin
 - 🔭 Area of interest is in *Deep Learning* and *Computer Vision*
 - ⚡ Currently working on *Content-Based Image Retrieval*
 - 🌱 Learning all about *Neural Networks* and *Attention-based Models*
-- 🎯 Specifically interested in Information Retrieval using Deep Learning.
+- 🎯 Specifically interested in *Information Retrieval using Deep Learning*.
 - 🌌 Using my programming skills in astronomy.
 
 
