@@ -1,5 +1,7 @@
 # 👋 Hi I'm Natanael
 
+<img align="right" alt="Cat" src="https://raw.githubusercontent.com/nmcardoso/nmcardoso/master/cat.gif" width="58" height="58" />
+
 I am a last year Computer Engineering student at University of São Paulo working on my master's project using deep learning in astronomy.
 
 ## Bio
@@ -23,4 +25,4 @@ I am a last year Computer Engineering student at University of São Paulo workin
 ## Github Stats
 ![Github Stats](https://raw.githubusercontent.com/nmcardoso/github-stats/master/generated/overview.svg) ![Most Used Languages](https://raw.githubusercontent.com/nmcardoso/github-stats/master/generated/languages.svg)
 
-<img src="https://raw.githubusercontent.com/nmcardoso/nmcardoso/master/cat.gif" width="64" height="64" />
+
