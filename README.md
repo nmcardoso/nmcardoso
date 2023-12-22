@@ -1,4 +1,4 @@
-# 👋 Hi I'm Natanael
+<h1 align="center">👋 Hi I'm Natanael</h1>
 
 <img align="right" alt="Cat" src="https://raw.githubusercontent.com/nmcardoso/nmcardoso/master/cat.gif" width="58" height="58" />
 
